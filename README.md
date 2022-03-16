@@ -1,2 +1,2 @@
 # PII-TonysBarbearia
-Software para a disciplina de projeto integrador
+Software para a disciplina de projeto integrador II
